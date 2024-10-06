@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Java and JS
 - 📫 How to reach me ...
 - 😄 Pronouns: he/he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't like Python
 
 <!---
 Heroigors1/Heroigors1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
