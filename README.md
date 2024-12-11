@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heroigors1
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in gaming and aviation
 - 🌱 I’m currently learning C#, Java and JS
 - 📫 How to reach me ...
