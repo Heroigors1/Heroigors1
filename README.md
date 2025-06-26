@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Igor
 - 👀 I’m interested in gaming and aviation
-- 🌱 I’m currently learning .NET, Java for mobile apps and JS
+- 🌱 I’m currently learning .NET and JS
 - 📫 How to reach me ...
-- 😄 Pronouns: he/he
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't like Python
 
 <!---
